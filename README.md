@@ -2,14 +2,16 @@
 
 ## A propos de moi :
 
-- 👋 Je m’appel Jean Louis Dos Santos, je suis normand depuis 13 ans
+- 👋 Je m’appel Jean Louis Dos Santos, je suis normand depuis 2009
 - 👀 Je m'intéresse au développement web, front et back.
-- 🌱 Je termine actuellement ma formation Openclassroom de développeur Web, [Mon projet final](https://oc-p7-frontend.herokuapp.com/#/)
+- 🌱 J'ai obtenu mon diplôme de développeur Web dans le cadre de ma formation Openclassroom, [Mon projet final](https://oc-p7-frontend.herokuapp.com/#/)
 - 📫 [Contactez moi](mailto:jeanlouis.dossantos84@gmail.com)
-- 🏃‍♂️Je pratique la course a pied
+- 🏃‍♂️Je pratique la course à pied
 
 ## Mon parcours
-- Expérience internantional en Irlande
+
+- Développeur web de Septembre 2022 à ce jour pour le conseil départemental du calvados
+- Expérience international  en Irlande
 - Travail depuis 10 ans dans une pme de Logistique/transport à IFS(14)
 
 ## Hard skils / Soft skils
@@ -18,6 +20,7 @@
 - Javascript
 - Express, mongoDB, MySql via Sequelize
 - VueJS et son ecosystem
+- React, Mui, 
 ___
 - Patient
 - Amélioration continue
