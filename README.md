@@ -4,7 +4,7 @@
 
 - 👋 Je m’appel Jean Louis Dos Santos, je suis normand depuis 2009
 - 👀 Je m'intéresse au développement web, front et back.
-- 🌱 J'ai obtenu mon diplôme de développeur Web dans le cadre de ma formation Openclassroom, [Mon projet final](https://oc-p7-frontend.herokuapp.com/#/)
+- 🌱 J'ai obtenu mon diplôme de développeur Web dans le cadre de ma formation Openclassroom.
 - 📫 [Contactez moi](mailto:jeanlouis.dossantos84@gmail.com)
 - 🏃‍♂️Je pratique la course à pied
 
